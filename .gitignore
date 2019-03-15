@@ -1,4 +1,7 @@
 data/
 .ipynb_checkpoints
 ._.DS_Store
-.DS_Store
+.DS_Stor
+tweets_classifier/
+LM_tweets/
+quora/
